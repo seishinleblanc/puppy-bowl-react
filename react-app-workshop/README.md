@@ -1,10 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-Link: https://64becea96a0ca80ec5c7a546--cozy-beignet-59ac0e.netlify.app/
+This is a practice exercise designed to improve React Skills. 
+It is a recreation of my previous 'puppy-bowl' project, this time created using React rather than Javascript.
